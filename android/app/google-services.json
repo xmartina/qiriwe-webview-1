@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640483960107",
+    "project_id": "qiriwe-webview-1",
+    "storage_bucket": "qiriwe-webview-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640483960107:android:1295fb133209e57772d16e",
+        "android_client_info": {
+          "package_name": "com.qiriwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640483960107-rqqqvg2j3oi78hos1qlptn2kjaf11pkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qiriwe",
+            "certificate_hash": "ad514d46eb9aab8ce67d96e8c08b635cac7b67c4"
+          }
+        },
+        {
+          "client_id": "640483960107-j3hofdaf7ubfko6n8eq9c57vl5lqdfv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfk9pMIkstx5ejAzhzmDVCmJ3hPoN31Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640483960107-j3hofdaf7ubfko6n8eq9c57vl5lqdfv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

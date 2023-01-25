@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>640483960107-p8upsh7h9jk6s8d1mvn5v505ohd3ue1c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.640483960107-p8upsh7h9jk6s8d1mvn5v505ohd3ue1c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>640483960107-rqqqvg2j3oi78hos1qlptn2kjaf11pkq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT8SbbM546umf5UmUPdxxVAWxdg4iLMkc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>640483960107</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qiriwe</string>
+	<key>PROJECT_ID</key>
+	<string>qiriwe-webview-1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qiriwe-webview-1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:640483960107:ios:0345189a13cf119672d16e</string>
+</dict>
+</plist>
